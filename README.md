@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![EMS Banner](https://via.placeholder.com/1200x400/0f0f23/10b981?text=Employee+Management+System)
-
 ### ✨ Modern • Animated • Elegant ✨
 
 **A cutting-edge employee management platform with stunning UI/UX and smooth animations**
@@ -46,12 +44,7 @@
 </tr>
 </table>
 
-## 🚀 Live Demo & Credentials
-
-### 🌐 **Production URL**
-**[https://ems-nvsbhj444-jaydeep-sardars-projects.vercel.app](https://ems-nvsbhj444-jaydeep-sardars-projects.vercel.app)**
-
-### 🔐 **Demo Credentials**
+##  Demo Credentials
 
 <div align="center">
 
@@ -60,27 +53,6 @@
 | 🔱 **Admin** | `admin@me.com` | `123` | Full Management Access |
 | 👤 **Employee** | `e@e.com` | `123` | Personal Dashboard |
 | 👥 **More Employees** | `employee2@example.com` | `123` | Task Management |
-
-</div>
-
-## 🎥 Preview
-
-<div align="center">
-
-### 🔐 Login Experience
-*Animated glassmorphism design with smooth transitions*
-
-![Login Preview](https://via.placeholder.com/800x500/1a1a2e/10b981?text=Animated+Login+Screen)
-
-### 📊 Admin Dashboard
-*Comprehensive management with real-time analytics*
-
-![Admin Dashboard](https://via.placeholder.com/800x500/0f0f23/3b82f6?text=Admin+Dashboard)
-
-### 📋 Employee Dashboard
-*Personal task management with progress tracking*
-
-![Employee Dashboard](https://via.placeholder.com/800x500/16213e/10b981?text=Employee+Dashboard)
 
 </div>
 
@@ -165,7 +137,6 @@ npm run build
 
 ### 🌐 **Access the Application**
 - **Local Development**: `http://localhost:5173`
-- **Production**: [https://ems-nvsbhj444-jaydeep-sardars-projects.vercel.app](https://ems-nvsbhj444-jaydeep-sardars-projects.vercel.app)
 
 ## 📱 Responsive Design
 
