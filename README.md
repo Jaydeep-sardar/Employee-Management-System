@@ -191,7 +191,7 @@ src/
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+I welcome contributions! Here's how you can help:
 
 1. **🍴 Fork the repository**
 2. **🌿 Create a feature branch** (`git checkout -b feature/amazing-feature`)
@@ -218,7 +218,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-### 🎉 **Thank you for using Employee Management System!** 🎉
+### 🎉 **Thank you for Viewing Employee Management System!** 🎉
 
 **Made with ❤️ by [Jaydeep Sardar](https://github.com/Jaydeep-sardar)**
 
